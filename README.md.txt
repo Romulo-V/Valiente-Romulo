@@ -1,1 +1,0 @@
-Mi primer proyecto pequeño en GitHub
